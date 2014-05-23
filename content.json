@@ -1,4 +1,12 @@
 {
     "literature_cited": [],
-    "appendices": []
+    "appendices": [],
+    "__comments__": [
+        {
+            "message": "This is such an awesome tool",
+            "user": "test@skryv.com",
+            "created": "2014-05-23T12:39:03.373Z",
+            "on": "abstract"
+        }
+    ]
 }
